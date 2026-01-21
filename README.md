@@ -1,132 +1,82 @@
 <!-- ========================= -->
-<!--  Vrundpatel153 — Elite README  -->
-<!--  Paste this into Vrundpatel153/README.md  -->
+<!--  Vrundpatel153 Elite Profile  -->
 <!-- ========================= -->
 
 <p align="center">
-  <!-- Animated gradient header (SVG as data URI) -->
-  <img alt="Full Stack Developer — animated header" src="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 220'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' x2='1' y1='0' y2='0'%3E%3Cstop offset='0%25' stop-color='%23A78BFA'/%3E%3Cstop offset='50%25' stop-color='%23038C7F'/%3E%3Cstop offset='100%25' stop-color='%23F59E0B'/%3E%3C/linearGradient%3E%3Cstyle%3E.title%7Bfont-family:Fira-Sans,Segoe-UI,Roboto,Arial,sans-serif;font-size:44px;font-weight:700;fill:%23fff%7D.sub%7Bfont-family:Fira-Sans,Segoe-UI,Roboto,Arial,sans-serif;font-size:16px;fill:rgba(255,255,255,0.9)%7D%3C/style%3E%3C/defs%3E%3Crect width='1200' height='220' rx='20' fill='url(%23g)' opacity='0.13'/%3E%3Ctext x='70' y='86' class='title'%3EFull Stack Developer%3C/text%3E%3Ctext x='70' y='120' class='sub'%3EMERN • TypeScript • Real-time • Design-first%3C/text%3E%3C/svg%3E" width="100%" style="max-width:1000px;border-radius:14px;box-shadow:0 8px 30px rgba(2,6,23,0.6)"/>
+<img alt="Full Stack Developer" src="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 220'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' x2='1' y1='0' y2='0'%3E%3Cstop offset='0%25' stop-color='%23A78BFA'/%3E%3Cstop offset='50%25' stop-color='%23038C7F'/%3E%3Cstop offset='100%25' stop-color='%23F59E0B'/%3E%3C/linearGradient%3E%3Cstyle%3E.title%7Bfont-family:Segoe UI,Arial;font-size:44px;font-weight:700;fill:%23fff%7D.sub%7Bfont-size:16px;fill:rgba(255,255,255,0.9)%7D%3C/style%3E%3C/defs%3E%3Crect width='1200' height='220' rx='20' fill='url(%23g)' opacity='0.14'/%3E%3Ctext x='70' y='90' class='title'%3EFull Stack Developer%3C/text%3E%3Ctext x='70' y='125' class='sub'%3EMERN • TypeScript • Real-time • UI Focused%3C/text%3E%3C/svg%3E" width="100%" />
 </p>
 
-<!-- ======= compact header badges (left-justified, wrap to fill) ======= -->
+---
+
+## ⚡ Tech Stack
+
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" style="margin:6px 6px 6px 0" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="margin:6px 6px 6px 0" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/TailwindCSS-skyblue?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
 </p>
 
-<!-- ======= 3-column compact "cards" for visuals (fits more on screen) ======= -->
-<table cellpadding="12" cellspacing="0" width="100%">
-  <tr>
+---
 
-    <!-- left card: stats -->
-    <td width="33%" valign="top" style="padding:12px">
-      <div style="border-radius:12px;padding:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 6px 20px rgba(2,6,23,0.6)">
-        <h4 style="margin:6px 0 12px 0">📊 GitHub Stats</h4>
-        <img src="https://github-readme-stats.vercel.app/api?username=Vrundpatel153&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" alt="github-stats" style="border-radius:8px"/>
-      </div>
-    </td>
+## 📊 Developer Dashboard
 
-    <!-- center card: activity graph -->
-    <td width="34%" valign="top" style="padding:12px">
-      <div style="border-radius:12px;padding:12px;background:linear-gradient(180deg, rgba(2,6,23,0.55), rgba(2,6,23,0.45));box-shadow:0 6px 20px rgba(2,6,23,0.6);">
-        <h4 style="margin:6px 0 12px 0">📈 Activity</h4>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrundpatel153&theme=react-dark&area=true&hide_border=true" width="100%" alt="activity" style="border-radius:8px"/>
-      </div>
-    </td>
+<table>
+<tr>
 
-    <!-- right card: contributions + snake -->
-    <td width="33%" valign="top" style="padding:12px">
-      <div style="border-radius:12px;padding:12px;background:linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.02));box-shadow:0 6px 20px rgba(2,6,23,0.6);">
-        <h4 style="margin:6px 0 12px 0">🐍 Contributions</h4>
+<td width="33%">
+<img src="https://github-readme-stats.vercel.app/api?username=Vrundpatel153&show_icons=true&theme=tokyonight&hide_border=true"/>
+</td>
 
-        <!-- Fallback heatmap (always works) -->
-        <img src="https://ghchart.rshah.org/Vrundpatel153" alt="heatmap fallback" width="100%" style="border-radius:8px; margin-bottom:8px" />
+<td width="34%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrundpatel153&theme=tokyo-night&area=true&hide_border=true"/>
+</td>
 
-        <!-- Snake (primary). Make sure your workflow committed this exact file to main/output/... -->
-        <img src="https://raw.githubusercontent.com/Vrundpatel153/Vrundpatel153/main/output/github-contribution-grid-snake.svg" alt="contribution-snake" width="100%" style="border-radius:8px" />
-      </div>
-    </td>
+<td width="33%">
 
-  </tr>
+<img src="https://ghchart.rshah.org/Vrundpatel153"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Vrundpatel153/Vrundpatel153/main/output/github-contribution-grid-snake.svg"/>
+
+</td>
+
+</tr>
 </table>
 
-<!-- ======= second compact row: streak + langs + quick links ======= -->
-<table cellpadding="10" cellspacing="0" width="100%" style="margin-top:8px">
-  <tr>
+---
 
-    <td width="33%" valign="top" style="padding:6px">
-      <div style="border-radius:12px;padding:10px;background:linear-gradient(180deg, rgba(3,6,23,0.6), rgba(3,6,23,0.45));box-shadow:0 6px 20px rgba(2,6,23,0.45)">
-        <h4 style="margin:6px 0">🔥 Streak</h4>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrundpatel153&theme=dark&hide_border=true" alt="streak" width="100%" style="border-radius:8px"/>
-      </div>
-    </td>
+## 🔥 Coding Streak & Languages
 
-    <td width="34%" valign="top" style="padding:6px">
-      <div style="border-radius:12px;padding:10px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));box-shadow:0 6px 20px rgba(2,6,23,0.45)">
-        <h4 style="margin:6px 0">🧭 Languages</h4>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrundpatel153&layout=compact&theme=dark&hide_border=true" alt="top-langs" width="100%" style="border-radius:8px"/>
-      </div>
-    </td>
+<table>
+<tr>
 
-    <td width="33%" valign="top" style="padding:6px">
-      <div style="border-radius:12px;padding:10px;background:linear-gradient(180deg, rgba(3,6,23,0.45), rgba(3,6,23,0.55));box-shadow:0 6px 20px rgba(2,6,23,0.45)">
-        <h4 style="margin:6px 0">🔗 Quick Links</h4>
-        <p style="margin:6px 0">
-          <a href="https://github.com/Vrundpatel153" style="text-decoration:none">
-            <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github" alt="gh" />
-          </a>
-        </p>
-        <p style="margin:6px 0">
-          <a href="mailto:yourmail@example.com" style="text-decoration:none">
-            <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail" alt="mail" />
-          </a>
-        </p>
-      </div>
-    </td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrundpatel153&theme=tokyonight&hide_border=true"/>
+</td>
 
-  </tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrundpatel153&layout=compact&theme=tokyonight&hide_border=true"/>
+</td>
+
+</tr>
 </table>
 
-<!-- ======= tech grid full width (left-justified, fills lines) ======= -->
-<h3 style="margin-top:14px">🧰 Tech & Tools</h3>
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" style="margin:6px 6px 6px 0" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" style="margin:6px 6px 6px 0" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin:6px 6px 6px 0" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="margin:6px 6px 6px 0" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" style="margin:6px 6px 6px 0" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" style="margin:6px 6px 6px 0" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" style="margin:6px 6px 6px 0" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin:6px 6px 6px 0" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin:6px 6px 6px 0" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin:6px 6px 6px 0" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="margin:6px 6px 6px 0" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" style="margin:6px 6px 6px 0" />
+---
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
-<!-- ======= footer: small visual quote + logo ======= -->
-<p align="center" style="margin-top:22px">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" style="display:block;margin:auto;max-width:900px;border-radius:10px;"/>
-</p>
-
-<p align="center" style="margin-top:10px">
-  <img src="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 30'%3E%3Crect width='100' height='30' rx='6' fill='%23038C7F'/%3E%3Ctext x='50' y='20' font-family='Fira Sans, Arial, sans-serif' font-size='12' fill='white' text-anchor='middle'%3EVP%3C/text%3E%3C/svg%3E" alt="logo" width="86"/>
-</p>
-
-<p style="color:#9aa3b2;font-size:12px;margin-top:14px">
-  Note: If you ever rename your default branch (e.g. to <code>main</code> → <code>master</code>), update the snake image URL accordingly.  
-  If the snake image does not show, visit the raw URL:  
-  <a href="https://raw.githubusercontent.com/Vrundpatel153/Vrundpatel153/main/output/github-contribution-grid-snake.svg">raw snake (open in browser)</a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Vrundpatel153&label=Profile+Views&color=blueviolet&style=flat-square"/>
 </p>
