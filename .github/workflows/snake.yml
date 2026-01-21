@@ -1,25 +1,40 @@
 name: Contribution Snake
 
+# Run daily, and allow manual runs
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *'   # daily at 00:00 UTC (change if you want)
   workflow_dispatch:
 
+# Give the workflow permission to write files (needed for the auto-commit step)
+permissions:
+  contents: write
+
 jobs:
-  snake:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
-
-      - name: Checkout Repo
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@main
+      - name: Generate snake svg(s)
+        id: snake
+        # use the svg-only variant (v3 is stable). It requires github_user_name + outputs
+        uses: Platane/snk/svg-only@v3
         with:
-          username: Vrundpatel153
-          output: output/github-contribution-grid-snake.svg
+          # specify the user whose contribution grid we want to read
+          # use your explicit username to avoid empty-variable problems:
+          github_user_name: 'Vrundpatel153'
+          # specify one or more output paths (one-per-line)
+          outputs: |
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          # important: allow the action to use the GitHub API
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Save Generated File
+      - name: Commit generated svgs (if any)
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "update snake animation"
+          commit_message: "chore: update contribution snake"
+          file_pattern: output/*.svg
